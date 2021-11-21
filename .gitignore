@@ -1,4 +1,6 @@
-XamarinFormsTrajets.Android
-XamarinFormsTrajets/obj
-XamarinFormsTrajets/bin
+*.cache
 .vs
+XamarinFormsTrajets.Android
+XamarinFormsTrajets.iOS
+XamarinFormsTrajets/bin
+XamarinFormsTrajets/obj
