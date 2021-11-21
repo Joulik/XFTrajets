@@ -23,17 +23,22 @@ namespace XamarinFormsTrajets
 
         async void OnButtonClicked(object sender, EventArgs e)
         {
-            if (!string.IsNullOrWhiteSpace(directionEntry.Text))
+            string direction="";
+            if (RadioButtonAller.IsChecked)
+                direction = "Aller";
+            if (RadioButtonRetour.IsChecked)
+                direction = "Retour";
+            if (!string.IsNullOrWhiteSpace(transportEntry.Text))
             {
                 await App.Database.SaveTrajetAsync(new Trajet
                 {
                     Date = DateTime.Now,
-                    Direction = directionEntry.Text,
+                    Direction = direction,
                     Transport = transportEntry.Text,
                     Duree = int.Parse(dureeEntry.Text)
                 });
 
-                directionEntry.Text = string.Empty;
+                //directionEntry.Text = string.Empty;
                 transportEntry.Text = string.Empty;
                 dureeEntry.Text = string.Empty;
 

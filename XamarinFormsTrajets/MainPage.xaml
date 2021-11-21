@@ -4,7 +4,14 @@
              x:Class="XamarinFormsTrajets.MainPage">
 
     <StackLayout Margin="20,35,20,20">
-        <Entry x:Name="directionEntry" Placeholder="Aller ou Retour"/>
+        <!--<Entry x:Name="directionEntry" Placeholder="Aller ou Retour"/>-->
+        <StackLayout>
+            <RadioButton x:Name="RadioButtonAller" Content="Aller"
+                         Value="Aller"
+                         IsChecked="True"></RadioButton>
+            <RadioButton x:Name="RadioButtonRetour" Content="Retour"
+                         Value="Retour"></RadioButton>
+        </StackLayout>
         <Entry x:Name="transportEntry" Placeholder="Transports"/>
         <Entry x:Name="dureeEntry" Placeholder="Durée"/>
         <Button Text="Ajouter" Clicked="OnButtonClicked"/>
