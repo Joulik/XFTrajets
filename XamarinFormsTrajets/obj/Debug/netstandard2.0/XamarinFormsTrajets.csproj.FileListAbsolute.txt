@@ -1,0 +1,14 @@
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\bin\Debug\netstandard2.0\XamarinFormsTrajets.deps.json
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\bin\Debug\netstandard2.0\XamarinFormsTrajets.dll
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\bin\Debug\netstandard2.0\ref\XamarinFormsTrajets.dll
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\bin\Debug\netstandard2.0\XamarinFormsTrajets.pdb
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\XamarinFormsTrajets.AssemblyInfoInputs.cache
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\XamarinFormsTrajets.AssemblyInfo.cs
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\XamarinFormsTrajets.csproj.CoreCompileInputs.cache
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\XamarinFormsTrajets.dll
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\ref\XamarinFormsTrajets.dll
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\XamarinFormsTrajets.pdb
+C:\Users\MagicAdmin\source\repos\XamarinFormsTrajets\XamarinFormsTrajets\obj\Debug\netstandard2.0\XamarinFormsTrajets.csproj.AssemblyReference.cache
